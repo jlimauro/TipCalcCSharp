@@ -1,0 +1,4 @@
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/mtouch-cache/Link/TipCalcCSharp.exe
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/mtouch-cache/Link/System.dll
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/mtouch-cache/Link/mscorlib.dll

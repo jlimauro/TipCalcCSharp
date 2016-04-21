@@ -1,0 +1,16 @@
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/actool/partial-info.plist
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/build-iphone8.1-9.0.2/actool/asset-manifest.plist
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/optimized/
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/bin/iPhone/Debug/TipCalcCSharp.exe.mdb
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/bin/iPhone/Debug/TipCalcCSharp.exe
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/TipCalcCSharp.exe
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/TipCalcCSharp.exe.mdb
+/Users/Jeffrey/Source Code/TipCalcCSharp/TipCalcCSharp/obj/iPhone/Debug/optimized/Icon-60@2x.png
